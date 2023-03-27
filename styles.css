@@ -1,6 +1,6 @@
 css
 body {
-    background: linear-gradient(to right, red, blue);
+    background: linear-gradient(to right, #ff4b4b, #4b8bff);
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
@@ -8,6 +8,7 @@ body {
     height: 100vh;
     margin: 0;
 }
+
 
 .container {
     display: flex;
